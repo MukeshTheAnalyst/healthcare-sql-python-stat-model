@@ -61,7 +61,7 @@ This repository contains all code and final outputs for the project.
 ## 🌐 Portfolio Site
 
 You can also view this project on my personal portfolio website:  
-🔗 https://mukeshshirke12.wixsite.com/mukeshfolio/post/from-schema-to-strategy-unlocking-healthcare-insights-with-sql-and-python
+🔗 [Wix Portfolio – Healthcare Data Analytics](https://mukeshshirke12.wixsite.com/mukeshfolio/post/from-schema-to-strategy-unlocking-healthcare-insights-with-sql-and-python)
 ---
 
 ## 👨‍💻 Author
