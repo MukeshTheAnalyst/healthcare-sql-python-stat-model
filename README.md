@@ -58,6 +58,11 @@ This repository contains all code and final outputs for the project.
 * **Actionable Strategy:** The necessity of linking analytical metrics directly to **strategic outcomes** (Cost Management, Quality Improvement) for maximum business impact.
 
 ---
+## 🌐 Portfolio Site
+
+You can also view this project on my personal portfolio website:  
+🔗 https://mukeshshirke12.wixsite.com/mukeshfolio/post/from-schema-to-strategy-unlocking-healthcare-insights-with-sql-and-python
+---
 
 ## 👨‍💻 Author
 Mukesh Shirke
